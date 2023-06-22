@@ -991,7 +991,7 @@
         "description": "movistarBlueDark60"
       },
       "navigationBarBackground": {
-        "value": "#019df4",
+        "value": "#000",
         "type": "color",
         "description": "movistarBlueDark"
       },
