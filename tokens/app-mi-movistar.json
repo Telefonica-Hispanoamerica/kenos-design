@@ -1,0 +1,2280 @@
+{
+  "Kénos": {
+    "background": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "backgroundBrand": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlueDark"
+    },
+    "appBarBackground": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "backgroundAlternative": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "grey1"
+    },
+    "backgroundContainer": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "backgroundFeedbackBottom": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlueDark"
+    },
+    "backgroundOverlay": {
+      "value": "#31323599",
+      "type": "color",
+      "description": "grey6"
+    },
+    "backgroundSkeleton": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "grey1"
+    },
+    "backgroundSkeletonInverse": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlueDark60"
+    },
+    "badge": {
+      "value": "#d73241",
+      "type": "color",
+      "description": "pepper55"
+    },
+    "border": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "grey3"
+    },
+    "borderDark": {
+      "value": "#86888c",
+      "type": "color",
+      "description": "grey5"
+    },
+    "borderLight": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "grey1"
+    },
+    "borderSelected": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "buttonDangerBackground": {
+      "value": "#ff374a",
+      "type": "color",
+      "description": "pepper"
+    },
+    "buttonDangerBackgroundHover": {
+      "value": "#d73241",
+      "type": "color",
+      "description": "pepper55"
+    },
+    "buttonDangerBackgroundSelected": {
+      "value": "#d73241",
+      "type": "color",
+      "description": "pepper55"
+    },
+    "buttonLinkBackgroundSelected": {
+      "value": "#e6f5fd",
+      "type": "color",
+      "description": "movistarBlue10"
+    },
+    "buttonLinkBackgroundSelectedInverse": {
+      "value": "#ffffff33",
+      "type": "color",
+      "description": "white"
+    },
+    "buttonPrimaryBackground": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "buttonPrimaryBackgroundHover": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "buttonPrimaryBackgroundInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "buttonPrimaryBackgroundSelected": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "buttonPrimaryBackgroundSelectedInverse": {
+      "value": "#80cef9",
+      "type": "color",
+      "description": "movistarBlue30"
+    },
+    "buttonSecondaryBackground": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "buttonSecondaryBackgroundSelected": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "buttonSecondaryBorderInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "buttonSecondaryBorderSelectedInverse": {
+      "value": "#80cef9",
+      "type": "color",
+      "description": "movistarBlue30"
+    },
+    "control": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "grey3"
+    },
+    "controlActivated": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "controlError": {
+      "value": "#ff374a",
+      "type": "color",
+      "description": "pepper"
+    },
+    "error": {
+      "value": "#ff374a",
+      "type": "color",
+      "description": "pepper"
+    },
+    "feedbackErrorBackground": {
+      "value": "#ff374a",
+      "type": "color",
+      "description": "pepper"
+    },
+    "feedbackInfoBackground": {
+      "value": "#313235",
+      "type": "color",
+      "description": "grey6"
+    },
+    "highlight": {
+      "value": "#e63780",
+      "type": "color",
+      "description": "pink"
+    },
+    "inverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "iosControlKnob": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "loadingBar": {
+      "value": "#80cef9",
+      "type": "color",
+      "description": "movistarBlue30"
+    },
+    "loadingBarBackground": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "neutralHigh": {
+      "value": "#313235",
+      "type": "color",
+      "description": "grey6"
+    },
+    "neutralMedium": {
+      "value": "#86888c",
+      "type": "color",
+      "description": "grey5"
+    },
+    "neutralLow": {
+      "value": "#f6f6f6",
+      "type": "color",
+      "description": "grey1"
+    },
+    "promo": {
+      "value": "#a13ea1",
+      "type": "color",
+      "description": "purple"
+    },
+    "success": {
+      "value": "#5cb615",
+      "type": "color",
+      "description": "movistarGreen"
+    },
+    "textAppBar": {
+      "value": "#999999",
+      "type": "color",
+      "description": "grey4"
+    },
+    "textAppBarSelected": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "textButtonPrimary": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textButtonPrimaryInverse": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "textButtonPrimaryInverseSelected": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "textButtonSecondary": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "textButtonSecondaryInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textButtonSecondaryInverseSelected": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textButtonSecondarySelected": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "textLink": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlue"
+    },
+    "textLinkDanger": {
+      "value": "#ff374a",
+      "type": "color",
+      "description": "pepper"
+    },
+    "textLinkSnackbar": {
+      "value": "#80cef9",
+      "type": "color",
+      "description": "movistarBlue30"
+    },
+    "textNavigationBarPrimary": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textNavigationBarSecondary": {
+      "value": "#b3e1fb",
+      "type": "color",
+      "description": "movistarBlue20"
+    },
+    "textNavigationSearchBarHint": {
+      "value": "#b3e1fb",
+      "type": "color",
+      "description": "movistarBlue20"
+    },
+    "textNavigationSearchBarText": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textPrimary": {
+      "value": "#313235",
+      "type": "color",
+      "description": "grey6"
+    },
+    "textPrimaryInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "textSecondary": {
+      "value": "#86888c",
+      "type": "color",
+      "description": "grey5"
+    },
+    "textSecondaryInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "warning": {
+      "value": "#f28d15",
+      "type": "color",
+      "description": "egg"
+    },
+    "toggleAndroidInactive": {
+      "value": "#eeeeee",
+      "type": "color",
+      "description": "grey2"
+    },
+    "toggleAndroidBackgroundActive": {
+      "value": "#b3e1fb",
+      "type": "color",
+      "description": "movistarBlue20"
+    },
+    "textLinkInverse": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "white"
+    },
+    "navigationBarBackground": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlueDark"
+    },
+    "divider": {
+      "value": "#eeeeee",
+      "type": "color",
+      "description": "grey2"
+    },
+    "dividerInverse": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlue55"
+    },
+    "navigationBarDivider": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlueDark"
+    },
+    "brand": {
+      "value": "#019df4",
+      "type": "color",
+      "description": "movistarBlueDark"
+    },
+    "brandHigh": {
+      "value": "#008edd",
+      "type": "color",
+      "description": "movistarBlueDark60"
+    },
+    "successLow": {
+      "value": "#eff8e8",
+      "type": "color",
+      "description": "movistarGreen10"
+    },
+    "warningLow": {
+      "value": "#fef4e8",
+      "type": "color",
+      "description": "egg10"
+    },
+    "errorLow": {
+      "value": "#ffebed",
+      "type": "color",
+      "description": "pepper10"
+    },
+    "promoLow": {
+      "value": "#f6ecf6",
+      "type": "color",
+      "description": "purple10"
+    },
+    "brandLow": {
+      "value": "#e6f5fd",
+      "type": "color",
+      "description": "movistarBlueDark10"
+    },
+    "promoHigh": {
+      "value": "#712b71",
+      "type": "color",
+      "description": "purple70"
+    },
+    "errorHigh": {
+      "value": "#b22634",
+      "type": "color",
+      "description": "pepper70"
+    },
+    "successHigh": {
+      "value": "#407f0f",
+      "type": "color",
+      "description": "movistarGreen70"
+    },
+    "warningHigh": {
+      "value": "#6d3f09",
+      "type": "color",
+      "description": "egg80"
+    },
+    "skeletonWave": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "grey3"
+    },
+    "[DEPRECATED] textAmount": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to brand"
+    },
+    "[DEPRECATED] textTagActive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to brand"
+    },
+    "[DEPRECATED] tagBackgroundInactive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to neutralLow"
+    },
+    "[DEPRECATED] textTagInactive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to neutralMedium"
+    },
+    "textLinkDisabled": {
+      "value": "#80cef9",
+      "type": "color"
+    },
+    "Background": {
+      "backgroundBrand": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "appBarBackground": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "background": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "backgroundContainer": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "backgroundOverlay": {
+        "value": "#31323599",
+        "type": "color",
+        "description": "grey6"
+      },
+      "backgroundSkeleton": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "backgroundSkeletonInverse": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlueDark60"
+      },
+      "navigationBarBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "backgroundAlternative": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "backgroundFeedbackBottom": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "skeletonWave": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "backgroundBrandSecondary": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "Special": {
+        "specialBackgroundBrand": {
+          "value": "#019df4",
+          "type": "color"
+        },
+        "specialBackground100": {
+          "value": "#f28d15",
+          "type": "color"
+        },
+        "specialBackground200": {
+          "value": "#5cb615",
+          "type": "color"
+        },
+        "specialBackground300": {
+          "value": "#a13ea1",
+          "type": "color"
+        },
+        "specialBackground400": {
+          "value": "#e63780",
+          "type": "color"
+        }
+      }
+    },
+    "Borders": {
+      "borderLight": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "border": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "borderDark": {
+        "value": "#86888c",
+        "type": "color",
+        "description": "grey5"
+      },
+      "borderSelected": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      }
+    },
+    "Buttons": {
+      "buttonDangerBackground": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "buttonLinkBackgroundSelected": {
+        "value": "#e6f5fd",
+        "type": "color",
+        "description": "movistarBlue10"
+      },
+      "buttonDangerBackgroundHover": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "buttonDangerBackgroundSelected": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "buttonPrimaryBackgroundSelected": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonLinkBackgroundSelectedInverse": {
+        "value": "#ffffff33",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonPrimaryBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "buttonPrimaryBackgroundHover": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonPrimaryBackgroundInverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonPrimaryBackgroundSelectedInverse": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "buttonSecondaryBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "buttonSecondaryBackgroundSelected": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonSecondaryBorderInverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonSecondaryBorderSelectedInverse": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "buttonPrimaryBackgroundBrandDark": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "buttonPrimaryBackgroundBrandDarkSelected": {
+        "value": "#113a54",
+        "type": "color"
+      },
+      "buttonSecondaryBorderBrandDark": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "buttonSecondaryBorderBrandDarkSelected": {
+        "value": "#113a54",
+        "type": "color"
+      }
+    },
+    "Global": {
+      "brand": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "brandHigh": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlueDark60"
+      },
+      "brandLow": {
+        "value": "#e6f5fd",
+        "type": "color",
+        "description": "movistarBlueDark10"
+      },
+      "neutralHigh": {
+        "value": "#313235",
+        "type": "color",
+        "description": "grey6"
+      },
+      "neutralMedium": {
+        "value": "#86888c",
+        "type": "color",
+        "description": "grey5"
+      },
+      "neutralLow": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "inverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "error": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "success": {
+        "value": "#5cb615",
+        "type": "color",
+        "description": "movistarGreen"
+      },
+      "warning": {
+        "value": "#f28d15",
+        "type": "color",
+        "description": "egg"
+      },
+      "promo": {
+        "value": "#a13ea1",
+        "type": "color",
+        "description": "purple"
+      },
+      "highlight": {
+        "value": "#e63780",
+        "type": "color",
+        "description": "pink"
+      },
+      "successLow": {
+        "value": "#eff8e8",
+        "type": "color",
+        "description": "movistarGreen10"
+      },
+      "warningLow": {
+        "value": "#fef4e8",
+        "type": "color",
+        "description": "egg10"
+      },
+      "errorLow": {
+        "value": "#ffebed",
+        "type": "color",
+        "description": "pepper10"
+      },
+      "promoLow": {
+        "value": "#f6ecf6",
+        "type": "color",
+        "description": "purple10"
+      },
+      "promoHigh": {
+        "value": "#712b71",
+        "type": "color",
+        "description": "purple70"
+      },
+      "errorHigh": {
+        "value": "#b22634",
+        "type": "color",
+        "description": "pepper70"
+      },
+      "successHigh": {
+        "value": "#407f0f",
+        "type": "color",
+        "description": "movistarGreen70"
+      },
+      "warningHigh": {
+        "value": "#6d3f09",
+        "type": "color",
+        "description": "egg80"
+      }
+    },
+    "Texts": {
+      "Buttons": {
+        "textButtonPrimary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonPrimaryInverseSelected": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textButtonPrimaryInverse": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonSecondarySelected": {
+          "value": "#008edd",
+          "type": "color",
+          "description": "movistarBlue55"
+        },
+        "textButtonSecondary": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkDisabled": {
+          "value": "#80cef9",
+          "type": "color"
+        },
+        "textButtonSecondaryInverseSelected": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonSecondaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textLink": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkDanger": {
+          "value": "#ff374a",
+          "type": "color",
+          "description": "pepper"
+        },
+        "textLinkSnackbar": {
+          "value": "#80cef9",
+          "type": "color",
+          "description": "movistarBlue30"
+        }
+      },
+      "Global": {
+        "textPrimary": {
+          "value": "#313235",
+          "type": "color",
+          "description": "grey6"
+        },
+        "textPrimaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textSecondary": {
+          "value": "#86888c",
+          "type": "color",
+          "description": "grey5"
+        },
+        "textSecondaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "[DEPRECATED] textAmount": {
+          "value": "#24ff00",
+          "type": "color",
+          "description": "change to brand"
+        }
+      },
+      "Bar Texts": {
+        "textNavigationBarPrimary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textNavigationBarSecondary": {
+          "value": "#b3e1fb",
+          "type": "color",
+          "description": "movistarBlue20"
+        },
+        "textNavigationSearchBarHint": {
+          "value": "#b3e1fb",
+          "type": "color",
+          "description": "movistarBlue20"
+        },
+        "textNavigationSearchBarText": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textAppBar": {
+          "value": "#999999",
+          "type": "color",
+          "description": "grey4"
+        },
+        "textAppBarSelected": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        }
+      }
+    },
+    "Feedbacks": {
+      "badge": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "feedbackErrorBackground": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "feedbackInfoBackground": {
+        "value": "#313235",
+        "type": "color",
+        "description": "grey6"
+      }
+    },
+    "Divider": {
+      "dividerInverse": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "divider": {
+        "value": "#eeeeee",
+        "type": "color",
+        "description": "grey2"
+      },
+      "navigationBarDivider": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      }
+    },
+    "Controls": {
+      "control": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "controlActivated": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "controlError": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "toggleAndroidInactive": {
+        "value": "#eeeeee",
+        "type": "color",
+        "description": "grey2"
+      },
+      "toggleAndroidBackgroundActive": {
+        "value": "#b3e1fb",
+        "type": "color",
+        "description": "movistarBlue20"
+      },
+      "iosControlKnob": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "loadingBar": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "loadingBarBackground": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      }
+    }
+  },
+  "App Mi Movistar": {
+    "[DEPRECATED] textTagActive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to brand"
+    },
+    "[DEPRECATED] tagBackgroundInactive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to neutralLow"
+    },
+    "[DEPRECATED] textTagInactive": {
+      "value": "#24ff00",
+      "type": "color",
+      "description": "change to neutralMedium"
+    },
+    "Background": {
+      "backgroundBrand": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "appBarBackground": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "background": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "backgroundContainer": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "backgroundOverlay": {
+        "value": "#31323599",
+        "type": "color",
+        "description": "grey6"
+      },
+      "backgroundSkeleton": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "backgroundSkeletonInverse": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlueDark60"
+      },
+      "navigationBarBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "backgroundAlternative": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "backgroundFeedbackBottom": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "skeletonWave": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "backgroundBrandSecondary": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "Special": {
+        "specialBackgroundBrand": {
+          "value": "#019df4",
+          "type": "color"
+        },
+        "specialBackground100": {
+          "value": "#f28d15",
+          "type": "color"
+        },
+        "specialBackground200": {
+          "value": "#5cb615",
+          "type": "color"
+        },
+        "specialBackground300": {
+          "value": "#a13ea1",
+          "type": "color"
+        },
+        "specialBackground400": {
+          "value": "#e63780",
+          "type": "color"
+        }
+      }
+    },
+    "Borders": {
+      "borderLight": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "border": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "borderDark": {
+        "value": "#86888c",
+        "type": "color",
+        "description": "grey5"
+      },
+      "borderSelected": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      }
+    },
+    "Buttons": {
+      "buttonDangerBackground": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "buttonLinkBackgroundSelected": {
+        "value": "#e6f5fd",
+        "type": "color",
+        "description": "movistarBlue10"
+      },
+      "buttonDangerBackgroundHover": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "buttonDangerBackgroundSelected": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "buttonPrimaryBackgroundSelected": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonLinkBackgroundSelectedInverse": {
+        "value": "#ffffff33",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonPrimaryBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "buttonPrimaryBackgroundHover": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonPrimaryBackgroundInverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonPrimaryBackgroundSelectedInverse": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "buttonSecondaryBackground": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "buttonSecondaryBackgroundSelected": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "buttonSecondaryBorderInverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "buttonSecondaryBorderSelectedInverse": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "buttonPrimaryBackgroundBrandDark": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "buttonPrimaryBackgroundBrandDarkSelected": {
+        "value": "#113a54",
+        "type": "color"
+      },
+      "buttonSecondaryBorderBrandDark": {
+        "value": "#0b2739",
+        "type": "color"
+      },
+      "buttonSecondaryBorderBrandDarkSelected": {
+        "value": "#113a54",
+        "type": "color"
+      }
+    },
+    "Global": {
+      "brand": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      },
+      "brandHigh": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlueDark60"
+      },
+      "brandLow": {
+        "value": "#e6f5fd",
+        "type": "color",
+        "description": "movistarBlueDark10"
+      },
+      "neutralHigh": {
+        "value": "#313235",
+        "type": "color",
+        "description": "grey6"
+      },
+      "neutralMedium": {
+        "value": "#86888c",
+        "type": "color",
+        "description": "grey5"
+      },
+      "neutralLow": {
+        "value": "#f6f6f6",
+        "type": "color",
+        "description": "grey1"
+      },
+      "inverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "error": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "success": {
+        "value": "#5cb615",
+        "type": "color",
+        "description": "movistarGreen"
+      },
+      "warning": {
+        "value": "#f28d15",
+        "type": "color",
+        "description": "egg"
+      },
+      "promo": {
+        "value": "#a13ea1",
+        "type": "color",
+        "description": "purple"
+      },
+      "highlight": {
+        "value": "#e63780",
+        "type": "color",
+        "description": "pink"
+      },
+      "successLow": {
+        "value": "#eff8e8",
+        "type": "color",
+        "description": "movistarGreen10"
+      },
+      "warningLow": {
+        "value": "#fef4e8",
+        "type": "color",
+        "description": "egg10"
+      },
+      "errorLow": {
+        "value": "#ffebed",
+        "type": "color",
+        "description": "pepper10"
+      },
+      "promoLow": {
+        "value": "#f6ecf6",
+        "type": "color",
+        "description": "purple10"
+      },
+      "promoHigh": {
+        "value": "#712b71",
+        "type": "color",
+        "description": "purple70"
+      },
+      "errorHigh": {
+        "value": "#b22634",
+        "type": "color",
+        "description": "pepper70"
+      },
+      "successHigh": {
+        "value": "#407f0f",
+        "type": "color",
+        "description": "movistarGreen70"
+      },
+      "warningHigh": {
+        "value": "#6d3f09",
+        "type": "color",
+        "description": "egg80"
+      }
+    },
+    "Texts": {
+      "Buttons": {
+        "textButtonPrimary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonPrimaryInverseSelected": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textButtonPrimaryInverse": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonSecondarySelected": {
+          "value": "#008edd",
+          "type": "color",
+          "description": "movistarBlue55"
+        },
+        "textButtonSecondary": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkDisabled": {
+          "value": "#80cef9",
+          "type": "color"
+        },
+        "textButtonSecondaryInverseSelected": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textButtonSecondaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textLink": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        },
+        "textLinkDanger": {
+          "value": "#ff374a",
+          "type": "color",
+          "description": "pepper"
+        },
+        "textLinkSnackbar": {
+          "value": "#80cef9",
+          "type": "color",
+          "description": "movistarBlue30"
+        }
+      },
+      "Global": {
+        "textPrimary": {
+          "value": "#313235",
+          "type": "color",
+          "description": "grey6"
+        },
+        "textPrimaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textSecondary": {
+          "value": "#86888c",
+          "type": "color",
+          "description": "grey5"
+        },
+        "textSecondaryInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "[DEPRECATED] textAmount": {
+          "value": "#24ff00",
+          "type": "color",
+          "description": "change to brand"
+        }
+      },
+      "Bar Texts": {
+        "textNavigationBarPrimary": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textNavigationBarSecondary": {
+          "value": "#b3e1fb",
+          "type": "color",
+          "description": "movistarBlue20"
+        },
+        "textNavigationSearchBarHint": {
+          "value": "#b3e1fb",
+          "type": "color",
+          "description": "movistarBlue20"
+        },
+        "textNavigationSearchBarText": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "white"
+        },
+        "textAppBar": {
+          "value": "#999999",
+          "type": "color",
+          "description": "grey4"
+        },
+        "textAppBarSelected": {
+          "value": "#019df4",
+          "type": "color",
+          "description": "movistarBlue"
+        }
+      }
+    },
+    "Feedbacks": {
+      "badge": {
+        "value": "#d73241",
+        "type": "color",
+        "description": "pepper55"
+      },
+      "feedbackErrorBackground": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "feedbackInfoBackground": {
+        "value": "#313235",
+        "type": "color",
+        "description": "grey6"
+      }
+    },
+    "Divider": {
+      "dividerInverse": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      },
+      "divider": {
+        "value": "#eeeeee",
+        "type": "color",
+        "description": "grey2"
+      },
+      "navigationBarDivider": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlueDark"
+      }
+    },
+    "Controls": {
+      "control": {
+        "value": "#dddddd",
+        "type": "color",
+        "description": "grey3"
+      },
+      "controlActivated": {
+        "value": "#019df4",
+        "type": "color",
+        "description": "movistarBlue"
+      },
+      "controlError": {
+        "value": "#ff374a",
+        "type": "color",
+        "description": "pepper"
+      },
+      "toggleAndroidInactive": {
+        "value": "#eeeeee",
+        "type": "color",
+        "description": "grey2"
+      },
+      "toggleAndroidBackgroundActive": {
+        "value": "#b3e1fb",
+        "type": "color",
+        "description": "movistarBlue20"
+      },
+      "iosControlKnob": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "white"
+      },
+      "loadingBar": {
+        "value": "#80cef9",
+        "type": "color",
+        "description": "movistarBlue30"
+      },
+      "loadingBarBackground": {
+        "value": "#008edd",
+        "type": "color",
+        "description": "movistarBlue55"
+      }
+    },
+    "fontFamilies": {
+      "telefonica": {
+        "value": "Telefonica",
+        "type": "fontFamilies"
+      },
+      "roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "4": {
+        "value": "48",
+        "type": "lineHeights"
+      },
+      "5": {
+        "value": "56",
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "7": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "8": {
+        "value": "64",
+        "type": "lineHeights"
+      },
+      "9": {
+        "value": "72",
+        "type": "lineHeights"
+      },
+      "10": {
+        "value": "28",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "telefonica-0": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "telefonica-1": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "roboto-2": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "roboto-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "roboto-4": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "10": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "11": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "12": {
+        "value": "64",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "mobile": {
+      "text-preset-5": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-6": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-7": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-8": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-9": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.4}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.4}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-10": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.5}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.5}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-4": {
+        "light": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-3": {
+        "light": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-2": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.6}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.6}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-1": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.7}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.7}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "desktop": {
+      "text-preset-5": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-6": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-7": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.4}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.4}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-8": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.5}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.5}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-9": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.8}",
+            "fontSize": "{fontSize.11}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.8}",
+            "fontSize": "{fontSize.11}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-10": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-1}",
+            "lineHeight": "{lineHeights.9}",
+            "fontSize": "{fontSize.12}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.telefonica}",
+            "fontWeight": "{fontWeights.telefonica-0}",
+            "lineHeight": "{lineHeights.9}",
+            "fontSize": "{fontSize.12}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-4": {
+        "light": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-2}",
+            "lineHeight": "{lineHeights.10}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.10}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.10}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-3": {
+        "light": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-2}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-2": {
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "text-preset-1": {
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-4}",
+            "lineHeight": "{lineHeights.6}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.roboto}",
+            "fontWeight": "{fontWeights.roboto-3}",
+            "lineHeight": "{lineHeights.6}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "paragraphIndent": {
+      "0": {
+        "value": "0px",
+        "type": "dimension"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Kénos",
+      "App Mi Movistar"
+    ]
+  }
+}
