@@ -956,9 +956,9 @@
     },
     "Background": {
       "backgroundBrand": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "appBarBackground": {
         "value": "#ffffff",
@@ -986,14 +986,14 @@
         "description": "grey1"
       },
       "backgroundSkeletonInverse": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlueDark60"
+        "description": "movistarBlueArg55"
       },
       "navigationBarBackground": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "backgroundAlternative": {
         "value": "#f6f6f6",
@@ -1001,9 +1001,9 @@
         "description": "grey1"
       },
       "backgroundFeedbackBottom": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "skeletonWave": {
         "value": "#dddddd",
@@ -1012,20 +1012,23 @@
       },
       "backgroundBrandSecondary": {
         "value": "#0b2739",
-        "type": "color"
+        "type": "color",
+        "description": "movistarBlueDarkSecondary"
       },
       "Special": {
         "specialBackgroundBrand": {
-          "value": "#019df4",
-          "type": "color"
+          "value": "#00a9e0",
+          "type": "color",
+          "description": "movistarBlueArg"
         },
         "specialBackground100": {
           "value": "#f28d15",
           "type": "color"
         },
         "specialBackground200": {
-          "value": "#5cb615",
-          "type": "color"
+          "value": "#5bc500",
+          "type": "color",
+          "description": "movistarGreenArg"
         },
         "specialBackground300": {
           "value": "#a13ea1",
@@ -1033,7 +1036,8 @@
         },
         "specialBackground400": {
           "value": "#e63780",
-          "type": "color"
+          "type": "color",
+          "description": "pink"
         }
       }
     },
@@ -1054,9 +1058,9 @@
         "description": "grey5"
       },
       "borderSelected": {
-        "value": "#019df4",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       }
     },
     "Buttons": {
@@ -1081,9 +1085,9 @@
         "description": "pepper55"
       },
       "buttonPrimaryBackgroundSelected": {
-        "value": "#008edd",
+        "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonLinkBackgroundSelectedInverse": {
         "value": "#ffffff33",
@@ -1091,14 +1095,14 @@
         "description": "white"
       },
       "buttonPrimaryBackground": {
-        "value": "#019df4",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "buttonPrimaryBackgroundHover": {
-        "value": "#008edd",
+        "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonPrimaryBackgroundInverse": {
         "value": "#ffffff",
@@ -1111,14 +1115,14 @@
         "description": "movistarBlue30"
       },
       "buttonSecondaryBackground": {
-        "value": "#019df4",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "buttonSecondaryBackgroundSelected": {
-        "value": "#008edd",
+        "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonSecondaryBorderInverse": {
         "value": "#ffffff",
@@ -1132,31 +1136,35 @@
       },
       "buttonPrimaryBackgroundBrandDark": {
         "value": "#0b2739",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue"
       },
       "buttonPrimaryBackgroundBrandDarkSelected": {
         "value": "#113a54",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue70"
       },
       "buttonSecondaryBorderBrandDark": {
         "value": "#0b2739",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue"
       },
       "buttonSecondaryBorderBrandDarkSelected": {
         "value": "#113a54",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue70"
       }
     },
     "Global": {
       "brand": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "brandHigh": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlueDark60"
+        "description": "movistarBlueArg55"
       },
       "brandLow": {
         "value": "#e6f5fd",
@@ -1189,9 +1197,9 @@
         "description": "pepper"
       },
       "success": {
-        "value": "#5cb615",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarGreen"
+        "description": "movistarGreenArg"
       },
       "warning": {
         "value": "#f28d15",
@@ -1211,7 +1219,7 @@
       "successLow": {
         "value": "#eff8e8",
         "type": "color",
-        "description": "movistarGreen10"
+        "description": "movistarGreenArg10"
       },
       "warningLow": {
         "value": "#fef4e8",
@@ -1228,25 +1236,35 @@
         "type": "color",
         "description": "purple10"
       },
-      "promoHigh": {
-        "value": "#712b71",
+      "highlightLow": {
+        "value": "#fff0f7",
         "type": "color",
-        "description": "purple70"
+        "description": "pink10"
+      },
+      "successHigh": {
+        "value": "#407f0f",
+        "type": "color",
+        "description": "movistarGreenArg70"
+      },
+      "warningHigh": {
+        "value": "#6d3f09",
+        "type": "color",
+        "description": "egg80"
       },
       "errorHigh": {
         "value": "#b22634",
         "type": "color",
         "description": "pepper70"
       },
-      "successHigh": {
-        "value": "#407f0f",
+      "promoHigh": {
+        "value": "#712b71",
         "type": "color",
-        "description": "movistarGreen70"
+        "description": "purple70"
       },
-      "warningHigh": {
-        "value": "#6d3f09",
+      "highlightHight": {
+        "value": "#bf2e6a",
         "type": "color",
-        "description": "egg80"
+        "description": "pink70"
       }
     },
     "Texts": {
@@ -1257,14 +1275,14 @@
           "description": "white"
         },
         "textButtonPrimaryInverseSelected": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textButtonPrimaryInverse": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textLinkInverse": {
           "value": "#ffffff",
@@ -1272,14 +1290,14 @@
           "description": "white"
         },
         "textButtonSecondarySelected": {
-          "value": "#008edd",
+          "value": "#499e00",
           "type": "color",
-          "description": "movistarBlue55"
+          "description": "movistarGreenArg60"
         },
         "textButtonSecondary": {
-          "value": "#019df4",
+          "value": "#5bc500",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarGreenArg"
         },
         "textLinkDisabled": {
           "value": "#80cef9",
@@ -1296,9 +1314,9 @@
           "description": "white"
         },
         "textLink": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textLinkDanger": {
           "value": "#ff374a",
@@ -1365,9 +1383,9 @@
           "description": "grey4"
         },
         "textAppBarSelected": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         }
       }
     },
@@ -1390,9 +1408,9 @@
     },
     "Divider": {
       "dividerInverse": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarBlueArg55"
       },
       "divider": {
         "value": "#eeeeee",
@@ -1400,9 +1418,9 @@
         "description": "grey2"
       },
       "navigationBarDivider": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       }
     },
     "Controls": {
@@ -1412,9 +1430,9 @@
         "description": "grey3"
       },
       "controlActivated": {
-        "value": "#019df4",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "controlError": {
         "value": "#ff374a",
@@ -1437,836 +1455,14 @@
         "description": "white"
       },
       "loadingBar": {
-        "value": "#80cef9",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue30"
+        "description": "movistarGreenArg"
       },
       "loadingBarBackground": {
-        "value": "#008edd",
+        "value": "#ade27f",
         "type": "color",
-        "description": "movistarBlue55"
-      }
-    },
-    "fontFamilies": {
-      "telefonica": {
-        "value": "Telefonica",
-        "type": "fontFamilies"
-      },
-      "roboto": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "24",
-        "type": "lineHeights"
-      },
-      "1": {
-        "value": "32",
-        "type": "lineHeights"
-      },
-      "2": {
-        "value": "AUTO",
-        "type": "lineHeights"
-      },
-      "3": {
-        "value": "40",
-        "type": "lineHeights"
-      },
-      "4": {
-        "value": "48",
-        "type": "lineHeights"
-      },
-      "5": {
-        "value": "56",
-        "type": "lineHeights"
-      },
-      "6": {
-        "value": "20",
-        "type": "lineHeights"
-      },
-      "7": {
-        "value": "16",
-        "type": "lineHeights"
-      },
-      "8": {
-        "value": "64",
-        "type": "lineHeights"
-      },
-      "9": {
-        "value": "72",
-        "type": "lineHeights"
-      },
-      "10": {
-        "value": "28",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "telefonica-0": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "telefonica-1": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "roboto-2": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "roboto-3": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "roboto-4": {
-        "value": "Medium",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "12",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "14",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "18",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "20",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "22",
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": "24",
-        "type": "fontSizes"
-      },
-      "7": {
-        "value": "28",
-        "type": "fontSizes"
-      },
-      "8": {
-        "value": "32",
-        "type": "fontSizes"
-      },
-      "9": {
-        "value": "40",
-        "type": "fontSizes"
-      },
-      "10": {
-        "value": "48",
-        "type": "fontSizes"
-      },
-      "11": {
-        "value": "56",
-        "type": "fontSizes"
-      },
-      "12": {
-        "value": "64",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "0%",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      }
-    },
-    "mobile": {
-      "text-preset-5": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.5}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.5}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-6": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.6}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.6}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-7": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.7}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.7}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-8": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.2}",
-            "fontSize": "{fontSize.8}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.3}",
-            "fontSize": "{fontSize.8}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-9": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.4}",
-            "fontSize": "{fontSize.9}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.4}",
-            "fontSize": "{fontSize.9}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-10": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{fontSize.10}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{fontSize.10}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-4": {
-        "light": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-2}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-3": {
-        "light": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-2}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.2}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.2}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.2}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-2": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.6}",
-            "fontSize": "{fontSize.1}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.6}",
-            "fontSize": "{fontSize.1}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-1": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.7}",
-            "fontSize": "{fontSize.0}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.7}",
-            "fontSize": "{fontSize.0}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "desktop": {
-      "text-preset-5": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.7}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.1}",
-            "fontSize": "{fontSize.7}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-6": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.3}",
-            "fontSize": "{fontSize.8}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.3}",
-            "fontSize": "{fontSize.8}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-7": {
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.4}",
-            "fontSize": "{fontSize.9}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.4}",
-            "fontSize": "{fontSize.9}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-8": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{fontSize.10}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.5}",
-            "fontSize": "{fontSize.10}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-9": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.8}",
-            "fontSize": "{fontSize.11}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.8}",
-            "fontSize": "{fontSize.11}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-10": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-1}",
-            "lineHeight": "{lineHeights.9}",
-            "fontSize": "{fontSize.12}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.telefonica}",
-            "fontWeight": "{fontWeights.telefonica-0}",
-            "lineHeight": "{lineHeights.9}",
-            "fontSize": "{fontSize.12}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-4": {
-        "light": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-2}",
-            "lineHeight": "{lineHeights.10}",
-            "fontSize": "{fontSize.4}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.10}",
-            "fontSize": "{fontSize.4}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.10}",
-            "fontSize": "{fontSize.4}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-3": {
-        "light": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-2}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.3}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-2": {
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.2}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.0}",
-            "fontSize": "{fontSize.2}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      },
-      "text-preset-1": {
-        "medium": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-4}",
-            "lineHeight": "{lineHeights.6}",
-            "fontSize": "{fontSize.1}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{fontFamilies.roboto}",
-            "fontWeight": "{fontWeights.roboto-3}",
-            "lineHeight": "{lineHeights.6}",
-            "fontSize": "{fontSize.1}",
-            "letterSpacing": "{letterSpacing.0}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography"
-        }
-      }
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "paragraphIndent": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
+        "description": "movistarGreenArg40"
       }
     }
   },
