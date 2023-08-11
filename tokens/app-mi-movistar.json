@@ -958,7 +958,7 @@
       "backgroundBrand": {
         "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "appBarBackground": {
         "value": "#ffffff",
@@ -986,14 +986,14 @@
         "description": "grey1"
       },
       "backgroundSkeletonInverse": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlueDark60"
+        "description": "movistarBlueArg55"
       },
       "navigationBarBackground": {
         "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "backgroundAlternative": {
         "value": "#f6f6f6",
@@ -1001,9 +1001,9 @@
         "description": "grey1"
       },
       "backgroundFeedbackBottom": {
-        "value": "#5bc500",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "skeletonWave": {
         "value": "#dddddd",
@@ -1017,16 +1017,18 @@
       },
       "Special": {
         "specialBackgroundBrand": {
-          "value": "#019df4",
-          "type": "color"
+          "value": "#00a9e0",
+          "type": "color",
+          "description": "movistarBlueArg"
         },
         "specialBackground100": {
           "value": "#f28d15",
           "type": "color"
         },
         "specialBackground200": {
-          "value": "#5cb615",
-          "type": "color"
+          "value": "#5bc500",
+          "type": "color",
+          "description": "movistarGreenArg"
         },
         "specialBackground300": {
           "value": "#a13ea1",
@@ -1034,7 +1036,8 @@
         },
         "specialBackground400": {
           "value": "#e63780",
-          "type": "color"
+          "type": "color",
+          "description": "pink"
         }
       }
     },
@@ -1057,7 +1060,7 @@
       "borderSelected": {
         "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       }
     },
     "Buttons": {
@@ -1084,7 +1087,7 @@
       "buttonPrimaryBackgroundSelected": {
         "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonLinkBackgroundSelectedInverse": {
         "value": "#ffffff33",
@@ -1094,12 +1097,12 @@
       "buttonPrimaryBackground": {
         "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "buttonPrimaryBackgroundHover": {
         "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonPrimaryBackgroundInverse": {
         "value": "#ffffff",
@@ -1114,12 +1117,12 @@
       "buttonSecondaryBackground": {
         "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "buttonSecondaryBackgroundSelected": {
         "value": "#499e00",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg60"
       },
       "buttonSecondaryBorderInverse": {
         "value": "#ffffff",
@@ -1133,31 +1136,35 @@
       },
       "buttonPrimaryBackgroundBrandDark": {
         "value": "#0b2739",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue"
       },
       "buttonPrimaryBackgroundBrandDarkSelected": {
         "value": "#113a54",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue70"
       },
       "buttonSecondaryBorderBrandDark": {
         "value": "#0b2739",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue"
       },
       "buttonSecondaryBorderBrandDarkSelected": {
         "value": "#113a54",
-        "type": "color"
+        "type": "color",
+        "description": "movistarProminentBlue70"
       }
     },
     "Global": {
       "brand": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       },
       "brandHigh": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlueDark60"
+        "description": "movistarBlueArg55"
       },
       "brandLow": {
         "value": "#e6f5fd",
@@ -1190,9 +1197,9 @@
         "description": "pepper"
       },
       "success": {
-        "value": "#5cb615",
+        "value": "#5bc500",
         "type": "color",
-        "description": "movistarGreen"
+        "description": "movistarGreenArg"
       },
       "warning": {
         "value": "#f28d15",
@@ -1212,7 +1219,7 @@
       "successLow": {
         "value": "#eff8e8",
         "type": "color",
-        "description": "movistarGreen10"
+        "description": "movistarGreenArg10"
       },
       "warningLow": {
         "value": "#fef4e8",
@@ -1229,25 +1236,35 @@
         "type": "color",
         "description": "purple10"
       },
-      "promoHigh": {
-        "value": "#712b71",
+      "highlightLow": {
+        "value": "#fff0f7",
         "type": "color",
-        "description": "purple70"
+        "description": "pink10"
+      },
+      "successHigh": {
+        "value": "#407f0f",
+        "type": "color",
+        "description": "movistarGreenArg70"
+      },
+      "warningHigh": {
+        "value": "#6d3f09",
+        "type": "color",
+        "description": "egg80"
       },
       "errorHigh": {
         "value": "#b22634",
         "type": "color",
         "description": "pepper70"
       },
-      "successHigh": {
-        "value": "#407f0f",
+      "promoHigh": {
+        "value": "#712b71",
         "type": "color",
-        "description": "movistarGreen70"
+        "description": "purple70"
       },
-      "warningHigh": {
-        "value": "#6d3f09",
+      "highlightHight": {
+        "value": "#bf2e6a",
         "type": "color",
-        "description": "egg80"
+        "description": "pink70"
       }
     },
     "Texts": {
@@ -1258,14 +1275,14 @@
           "description": "white"
         },
         "textButtonPrimaryInverseSelected": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textButtonPrimaryInverse": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textLinkInverse": {
           "value": "#ffffff",
@@ -1275,12 +1292,12 @@
         "textButtonSecondarySelected": {
           "value": "#499e00",
           "type": "color",
-          "description": "movistarBlue55"
+          "description": "movistarGreenArg60"
         },
         "textButtonSecondary": {
           "value": "#5bc500",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarGreenArg"
         },
         "textLinkDisabled": {
           "value": "#80cef9",
@@ -1297,9 +1314,9 @@
           "description": "white"
         },
         "textLink": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         },
         "textLinkDanger": {
           "value": "#ff374a",
@@ -1366,9 +1383,9 @@
           "description": "grey4"
         },
         "textAppBarSelected": {
-          "value": "#019df4",
+          "value": "#00a9e0",
           "type": "color",
-          "description": "movistarBlue"
+          "description": "movistarBlueArg"
         }
       }
     },
@@ -1391,9 +1408,9 @@
     },
     "Divider": {
       "dividerInverse": {
-        "value": "#008edd",
+        "value": "#0098d8",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarBlueArg55"
       },
       "divider": {
         "value": "#eeeeee",
@@ -1401,9 +1418,9 @@
         "description": "grey2"
       },
       "navigationBarDivider": {
-        "value": "#019df4",
+        "value": "#00a9e0",
         "type": "color",
-        "description": "movistarBlueDark"
+        "description": "movistarBlueArg"
       }
     },
     "Controls": {
@@ -1415,7 +1432,7 @@
       "controlActivated": {
         "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue"
+        "description": "movistarGreenArg"
       },
       "controlError": {
         "value": "#ff374a",
@@ -1440,12 +1457,12 @@
       "loadingBar": {
         "value": "#5bc500",
         "type": "color",
-        "description": "movistarBlue30"
+        "description": "movistarGreenArg"
       },
       "loadingBarBackground": {
         "value": "#ade27f",
         "type": "color",
-        "description": "movistarBlue55"
+        "description": "movistarGreenArg40"
       }
     }
   },
