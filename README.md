@@ -1,12 +1,11 @@
 &nbsp;
 
-| Otros repositorios de Kénos                                           | Descripción
+| Otros repositorios de Kénos                                               | Descripción                                           |
 | :--------------------------------------------------------------- | :---------------------------------------------------- |
-| [kenos-web](https://github.com/Telefonica-Hispanoamerica/kenos-web)         | 
-Repositorio con librerías de códigos para Kénos en web basado en React    |
-| [kenos-native](https://github.com/Telefonica-Hispanoamerica/kenos-native)         |
-Repositorio con librerías de códigos para Kénos en nativo basado en React Native     |
-| [kenos-icons](https://github.com/Telefonica-Hispanoamerica/kenos-icons)     | Repositorio que contiene los iconos utilizados en Kénos |
+| [kenos-web](https://github.com/Telefonica-Hispanoamerica/kenos-web)        | Repositorio con librerías de códigos para Kénos en web basado en React     |
+| [kenos-native](https://github.com/Telefonica-Hispanoamerica/kenos-native)       | Repositorio con librerías de códigos para Kénos en nativo basado en React Native     |
+| [kenos-icons](https://github.com/Telefonica-Hispanoamerica/kenos-icons) | Repositorio que contiene los iconos utilizados en Kénos|
+
 
 ---
 
