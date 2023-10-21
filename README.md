@@ -1,10 +1,6 @@
-![Mistica Design](.github/resources/mistica-design-light.svg#gh-light-mode-only)
-![Mistica Design](.github/resources/mistica-design-dark.svg#gh-dark-mode-only)
 &nbsp;
 
-&nbsp;
-
-| Otros repositorios de Kénos                                           |
+| Otros repositorios de Kénos                                           | Descripción
 | :--------------------------------------------------------------- | :---------------------------------------------------- |
 | [kenos-web](https://github.com/Telefonica-Hispanoamerica/kenos-web)         | 
 Repositorio con librerías de códigos para Kénos en web basado en React    |
