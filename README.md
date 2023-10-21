@@ -9,9 +9,6 @@
 
 ---
 
-<br/>
-
-
 # Figma
 
 ## ¿Cómo sincronizar los tokens de diseño?
